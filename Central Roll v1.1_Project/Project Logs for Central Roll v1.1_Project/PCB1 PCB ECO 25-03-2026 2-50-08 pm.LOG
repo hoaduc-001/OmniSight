@@ -1,0 +1,88 @@
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=ICM-42688-P
+Change Component Footprint: Designator=C13 Old Footprint=CAP0402 New Footprint=CAP0402
+Change Component Footprint: Designator=C14 Old Footprint=CAP0402 New Footprint=CAP0402
+Change Component Footprint: Designator=C15 Old Footprint=CAP0402 New Footprint=CAP0402
+Change Component Footprint: Designator=C18 Old Footprint=CAP0402 New Footprint=CAP0402
+Change Component Footprint: Designator=C19 Old Footprint=CAP0402 New Footprint=CAP0402
+Change Component Footprint: Designator=C20 Old Footprint=CAP0402 New Footprint=CAP0402
+Change Component Footprint: Designator=C4 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Component Footprint: Designator=C5 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Component Footprint: Designator=C6 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Component Footprint: Designator=C7 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Component Footprint: Designator=C8 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Component Footprint: Designator=C10 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Component Footprint: Designator=C12 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Component Footprint: Designator=C17 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Component Footprint: Designator=C22 Old Footprint=CAP0603 New Footprint=CAP0603
+Change Component Footprint: Designator=C21 Old Footprint=CAP0805 New Footprint=CAP0805
+Change Component Footprint: Designator=D1 Old Footprint=LED0603 RED New Footprint=LED0603 RED
+Change Component Footprint: Designator=R13 Old Footprint=RES0402 New Footprint=RES0402
+Change Component Footprint: Designator=R14 Old Footprint=RES0402 New Footprint=RES0402
+Change Component Footprint: Designator=R15 Old Footprint=RES0402 New Footprint=RES0402
+Change Component Footprint: Designator=R16 Old Footprint=RES0402 New Footprint=RES0402
+Change Component Footprint: Designator=R17 Old Footprint=RES0402 New Footprint=RES0402
+Change Component Footprint: Designator=R19 Old Footprint=RES0402 New Footprint=RES0402
+Change Component Footprint: Designator=R12 Old Footprint=RES0603 New Footprint=RES0603
+Change Component Footprint: Designator=R20 Old Footprint=RES0603 New Footprint=RES0603
+Change Component Footprint: Designator=R21 Old Footprint=RES0603 New Footprint=RES0603
+Change Component Footprint: Designator=R22 Old Footprint=RES0603 New Footprint=RES0603
+Change Component Footprint: Designator=R23 Old Footprint=RES0603 New Footprint=RES0603
+Added Component: Designator=C9(T55B106M035C0200)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "T55B106M035C0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/t55b106m035c0200/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.cn/datasheet/2/427/t55-537218.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "T55B106M035C0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "74-T55B106M035C0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Polytech/T55B106M035C0200?qs=BZBei1rCqCCB8UyqeipbyQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P1(XSXL52)
+Added Pin To Net: NetName=12V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=ETHE1_TX_P Pin=P1-1
+Added Pin To Net: NetName=MCU1_Main_Left_SWDIO Pin=P1-2
+Added Pin To Net: NetName=ETHE1_TX_N Pin=P1-3
+Added Pin To Net: NetName=MCU1_Main_Left_SWCLK Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=MCU2_Main_Left_SWDIO Pin=P1-6
+Added Pin To Net: NetName=ETHE1_RX_P Pin=P1-7
+Added Pin To Net: NetName=MCU2_Main_Left_SWCLK Pin=P1-8
+Added Pin To Net: NetName=ETHE1_RX_N Pin=P1-9
+Added Pin To Net: NetName=MCU1_Main_Right_SWDIO Pin=P1-10
+Added Pin To Net: NetName=RS232_ENC_Left_TX Pin=P1-11
+Added Pin To Net: NetName=MCU1_Main_Right_SWCLK Pin=P1-12
+Added Pin To Net: NetName=RS232_ENC_Left_RX Pin=P1-13
+Added Pin To Net: NetName=MCU2_Main_Right_SWDIO Pin=P1-14
+Added Pin To Net: NetName=PWM_1 Pin=P1-15
+Added Pin To Net: NetName=MCU2_Main_Right_SWCLK Pin=P1-16
+Added Pin To Net: NetName=ETHE2_TX_P Pin=P1-17
+Added Pin To Net: NetName=GND Pin=P1-18
+Added Pin To Net: NetName=ETHE2_TX_N Pin=P1-19
+Added Pin To Net: NetName=SBUS_1 Pin=P1-21
+Added Pin To Net: NetName=ETHE2_RX_P Pin=P1-23
+Added Pin To Net: NetName=NetP1_24 Pin=P1-24
+Added Pin To Net: NetName=ETHE2_RX_N Pin=P1-25
+Added Pin To Net: NetName=NetP1_26 Pin=P1-26
+Added Pin To Net: NetName=RS232_ENC_Right_TX Pin=P1-27
+Added Pin To Net: NetName=NetP1_28 Pin=P1-28
+Added Pin To Net: NetName=RS232_ENC_Right_RX Pin=P1-29
+Added Pin To Net: NetName=GND Pin=P1-30
+Added Pin To Net: NetName=PWM_2 Pin=P1-31
+Added Pin To Net: NetName=SBUS_2 Pin=P1-33
+Added Pin To Net: NetName=GND Pin=P1-35
+Added Pin To Net: NetName=RS232_TX1 Pin=P1-36
+Added Pin To Net: NetName=NX_CAN_L Pin=P1-37
+Added Pin To Net: NetName=RS232_RX1 Pin=P1-38
+Added Pin To Net: NetName=NX_CAN_H Pin=P1-39
+Added Pin To Net: NetName=GND Pin=P1-40
+Added Pin To Net: NetName=CAM_TRIGGER Pin=P1-41
+Added Pin To Net: NetName=RS232_TX2 Pin=P1-42
+Added Pin To Net: NetName=GND Pin=P1-43
+Added Pin To Net: NetName=RS232_RX2 Pin=P1-44
+Added Pin To Net: NetName=NetP1_45 Pin=P1-45
+Added Pin To Net: NetName=NetP1_47 Pin=P1-47
+Added Pin To Net: NetName=GND Pin=P1-48
+Added Pin To Net: NetName=NetP1_49 Pin=P1-49
+Added Pin To Net: NetName=NetP1_51 Pin=P1-51
+Added Member To Class: ClassName=Driver Member=Component C9 T55B106M035C0200
+Added Member To Class: ClassName=Connector Member=Component P1 XSLS00-52-B

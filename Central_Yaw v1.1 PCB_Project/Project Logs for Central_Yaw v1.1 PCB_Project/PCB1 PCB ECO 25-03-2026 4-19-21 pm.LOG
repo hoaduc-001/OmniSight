@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetQ3_1 Pin=R25-1
+Removed Pin From Net: NetName=3V3 Pin=R25-2
+Removed Pin From Net: NetName=NetQ4_1 Pin=R28-1
+Removed Pin From Net: NetName=3V3 Pin=R28-2
+Change Component Footprint: Designator=R25 Old Footprint=RES0603 New Footprint=RES0603
+Change Component Footprint: Designator=R28 Old Footprint=RES0603 New Footprint=RES0603
+Change Component Comment : Designator=R25 Old Comment=MCR03EZPJ100 New Comment=RES0603
+Change Component Comment : Designator=R28 Old Comment=MCR03EZPJ100 New Comment=RES0603
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RES0603"; UniqueID = "\EDYLZPES" ("\EDYLZPES")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "RES0603"; UniqueID = "\ECPEWVIK" ("\ECPEWVIK")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(BSS138)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BSS138/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3 Motorola"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=SCL_IMU1 Pin=Q4-2
+Added Pin To Net: NetName=NetP2_47 Pin=Q4-3
+Added Pin To Net: NetName=3V3 Pin=R25-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R25-2
+Added Pin To Net: NetName=3V3 Pin=R28-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R28-2
+Added Member To Class: ClassName=IMU Member=Component Q4 BSS138

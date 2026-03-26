@@ -1,0 +1,47 @@
+Added Component: Designator=R30(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0mR"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0mR"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0mR"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0mR"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0mR"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0mR"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0mR"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0mR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RX_AI Pin=R30-1
+Added Pin To Net: NetName=NetP1_19 Pin=R30-2
+Added Pin To Net: NetName=TX_AI Pin=R31-1
+Added Pin To Net: NetName=NetP2_50 Pin=R32-1
+Added Pin To Net: NetName=CAM_TRIGGER Pin=R32-2
+Added Pin To Net: NetName=SBUS_2 Pin=R33-1
+Added Pin To Net: NetName=NetP2_44 Pin=R33-2
+Added Pin To Net: NetName=NetP2_32 Pin=R34-1
+Added Pin To Net: NetName=PWM_1 Pin=R34-2
+Added Pin To Net: NetName=PWM_2 Pin=R35-1
+Added Pin To Net: NetName=NetP2_46 Pin=R35-2
+Added Pin To Net: NetName=NetP2_34 Pin=R36-1
+Added Pin To Net: NetName=SBUS_1 Pin=R36-2
+Added Pin To Net: NetName=CAM_TRIGGER_2 Pin=R37-1
+Added Pin To Net: NetName=NetP2_52 Pin=R37-2
+Added Member To Class: ClassName=Connector Member=Component R30 RES0402
+Added Member To Class: ClassName=Connector Member=Component R31 RES0402
+Added Member To Class: ClassName=Connector Member=Component R32 RES0402
+Added Member To Class: ClassName=Connector Member=Component R33 RES0402
+Added Member To Class: ClassName=Connector Member=Component R34 RES0402
+Added Member To Class: ClassName=Connector Member=Component R35 RES0402
+Added Member To Class: ClassName=Connector Member=Component R36 RES0402
+Added Member To Class: ClassName=Connector Member=Component R37 RES0402

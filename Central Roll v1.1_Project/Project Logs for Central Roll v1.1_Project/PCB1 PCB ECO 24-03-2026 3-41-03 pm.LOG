@@ -1,0 +1,40 @@
+Added Component: Designator=Q2(BSS138)
+Add component (AddParameter): Name = "(Max Rds On, Min Rds On"; Value = "4.5V, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @ 25°C"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) (Max) @ Vds"; Value = "50 pF @ 25 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "150°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation (Max)"; Value = "225mW (Ta)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "3.5Ohm @ 220mA, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = "1.6V @ 1mA"; VariantName = "[No Variations]"
+Added Component: Designator=U?(AS5048B-HTSP-500)
+Add component (AddParameter): Name = "Actuator Type"; Value = "External Magnet, Not Included"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting TypeOperating Temperature"; Value = "-40°C ~ 150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AS5048B-HTSP-500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "I2C, PWM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "14-TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rotation Angle - Electrical, Mechanical"; Value = "0° ~ 360°, Continuous"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "Hall Effect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "3V ~ 3.6V, 4.5V ~ 5.5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetP1_51 Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_2 Pin=U?-1
+Added Pin To Net: NetName=NetQ2_2 Pin=U?-2
+Added Pin To Net: NetName=NetR4_2 Pin=U?-3
+Added Pin To Net: NetName=NetR3_2 Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=+5V Pin=U?-11
+Added Pin To Net: NetName=+3V3 Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Member To Class: ClassName=Encoder Member=Component Q2 BSS138
+Added Member To Class: ClassName=Encoder Member=Component U? AS5048B-HTSP-500

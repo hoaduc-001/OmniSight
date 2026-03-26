@@ -1,0 +1,5 @@
+Added Component: Designator=J1(PAD 20x20)
+Added Pin To Net: NetName=12V Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Member To Class: ClassName=Driver Member=Component J1 BM03B-ACHSS-GAN-TF
+Added Member To Class: ClassName=PWR Member=Component J1 PAD 150x150

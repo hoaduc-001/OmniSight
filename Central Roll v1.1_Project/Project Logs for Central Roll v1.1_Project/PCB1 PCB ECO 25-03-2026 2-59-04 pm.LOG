@@ -1,0 +1,14 @@
+Change Component DesignItemId : Designator=R6 Old DesignItemId=CMP-01078-4 New DesignItemId=RES0603
+Change Component DesignItemId : Designator=R9 Old DesignItemId=CMP-01078-4 New DesignItemId=RES0603
+Change Component Footprint: Designator=R6 Old Footprint=RES0603 New Footprint=RES0603
+Change Component Footprint: Designator=R9 Old Footprint=RES0603 New Footprint=RES0603
+Change Component Comment : Designator=R6 Old Comment=MCR03EZPJ100 New Comment=RES0603
+Change Component Comment : Designator=R9 Old Comment=MCR03EZPJ100 New Comment=RES0603
+Change Component Description : Designator=R6 Old Description=RES SMD 10 OHM 5% 1/10W 0603 New Description=RES 0805
+Change Component Description : Designator=R9 Old Description=RES SMD 10 OHM 5% 1/10W 0603 New Description=RES 0805
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES0603"; UniqueID = "\DGKZNMRY" ("\DGKZNMRY")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES0603"; UniqueID = "\BBXEEPDW" ("\BBXEEPDW")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"

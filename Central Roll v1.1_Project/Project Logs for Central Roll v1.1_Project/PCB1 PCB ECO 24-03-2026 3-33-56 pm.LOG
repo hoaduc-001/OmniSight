@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=Encoder Member=Q?
+Added Component: Designator=Q1(BSS138)
+Add component (AddParameter): Name = "(Max Rds On, Min Rds On"; Value = "4.5V, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @ 25°C"; Value = "220mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "50 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) (Max) @ Vds"; Value = "50 pF @ 25 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "150°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation (Max)"; Value = "225mW (Ta)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "3.5Ohm @ 220mA, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = "1.6V @ 1mA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetP1_49 Pin=Q1-3
+Added Member To Class: ClassName=Encoder Member=Component Q1 BSS138

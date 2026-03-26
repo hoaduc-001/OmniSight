@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetJ1_1 Pin=J1-1
+Added Component: Designator=J2(PAD 20x20)
+Added Pin To Net: NetName=12V Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Member To Class: ClassName=PWR Member=Component J2 PAD 150x150

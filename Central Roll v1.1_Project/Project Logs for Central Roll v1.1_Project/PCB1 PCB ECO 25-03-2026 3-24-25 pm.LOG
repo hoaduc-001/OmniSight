@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=U2 Old Footprint=SOP65P640X110-21N New Footprint=DRV8313PWP
+Added Pin To Net: NetName=NetR11_1 Pin=U2-22
+Added Pin To Net: NetName=NetP1_28 Pin=U2-23
+Added Pin To Net: NetName=NetR11_1 Pin=U2-24
+Added Pin To Net: NetName=NetP1_26 Pin=U2-25
+Added Pin To Net: NetName=NetR11_1 Pin=U2-26
+Added Pin To Net: NetName=NetP1_24 Pin=U2-27
+Added Pin To Net: NetName=GND Pin=U2-28
+Added Pin To Net: NetName=GND Pin=U2-29

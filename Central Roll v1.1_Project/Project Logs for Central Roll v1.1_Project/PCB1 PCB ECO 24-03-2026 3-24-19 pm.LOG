@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=R6 Old DesignItemId=CMP-01078-4 New DesignItemId=
+Change Component DesignItemId : Designator=R9 Old DesignItemId=CMP-01078-4 New DesignItemId=
+Change Component DesignItemId : Designator=R5 Old DesignItemId=RC0603FR-072K2L New DesignItemId=
+Change Component DesignItemId : Designator=R7 Old DesignItemId=RC0603FR-072K2L New DesignItemId=
+Change Component DesignItemId : Designator=R8 Old DesignItemId=RC0603FR-072K2L New DesignItemId=
+Change Component DesignItemId : Designator=R10 Old DesignItemId=RC0603FR-072K2L New DesignItemId=
+Change Component Library : Designator=R6 Old Library=JetsonNX_CSI.SCHLIB New Library=RTR.SchLib
+Change Component Library : Designator=R9 Old Library=JetsonNX_CSI.SCHLIB New Library=RTR.SchLib
+Change Component Library : Designator=R5 Old Library=Yaw-Ofil.SchLib New Library=RTR.SchLib
+Change Component Library : Designator=R7 Old Library=Yaw-Ofil.SchLib New Library=RTR.SchLib
+Change Component Library : Designator=R8 Old Library=Yaw-Ofil.SchLib New Library=RTR.SchLib
+Change Component Library : Designator=R10 Old Library=Yaw-Ofil.SchLib New Library=RTR.SchLib
