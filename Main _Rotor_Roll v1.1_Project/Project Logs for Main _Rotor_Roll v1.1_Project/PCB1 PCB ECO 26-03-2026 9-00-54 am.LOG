@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R15 Old Footprint=RES0402 New Footprint=RES0402
+Change Component Footprint: Designator=R16 Old Footprint=RES0402 New Footprint=RES0402
+Added Component: Designator=R18(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "510"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=R18-1
+Added Pin To Net: NetName=NetD2_2 Pin=R18-2
+Added Member To Class: ClassName=PWR Member=Component R18 RES0402
