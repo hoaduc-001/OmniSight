@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : G:\AD document\Gimbal  OmniSight EVT\OmniSight\Central Roll v1.1_Project\PCB1.PcbDoc
 Date     : 31/03/2026
-Time     : 11:05:43 am
+Time     : 3:05:28 pm
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
@@ -10,8 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net SDA_IMU1 Between Track (274.457mil,1125mil)(275mil,1125mil) on Top Layer And Track (274.457mil,1125mil)(275mil,1125mil) on Layer 1 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -38,15 +37,12 @@ Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Track (274.457mil,1125mil)(275mil,1125mil) on Layer 1 
-   Violation between Net Antennae: Track (274.457mil,1125mil)(275mil,1125mil) on Layer 1 
-   Violation between Net Antennae: Via (1360mil,912mil) from Top Layer to Bottom Layer 
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:02
