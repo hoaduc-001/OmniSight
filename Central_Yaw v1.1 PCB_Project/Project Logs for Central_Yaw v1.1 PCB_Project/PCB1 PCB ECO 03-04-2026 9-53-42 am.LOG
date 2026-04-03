@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J3 Old Footprint=XT60PW-M New Footprint=MOLEX_2157601002
+Added Room: Name=Connector
+Added Room: Name=Driver
+Added Room: Name=Encoder
+Added Room: Name=IMU

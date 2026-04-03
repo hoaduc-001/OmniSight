@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J1 Old Footprint=PAD 20x20 New Footprint=ESC PAD 3X4
+Change Component Footprint: Designator=J2 Old Footprint=PAD 20x20 New Footprint=ESC PAD 3X4
+Added Room: Name=Connector
+Added Room: Name=Driver
+Added Room: Name=Encoder
