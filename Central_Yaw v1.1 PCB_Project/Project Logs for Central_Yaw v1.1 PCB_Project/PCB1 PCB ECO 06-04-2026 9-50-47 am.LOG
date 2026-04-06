@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=VDD Pin=R24-2
+Added Pin To Net: NetName=VDD Pin=R25-1
+Added Pin To Net: NetName=+5V Pin=R26-2
+Added Pin To Net: NetName=VDD Pin=R27-2
+Added Pin To Net: NetName=VDD Pin=R28-1
+Added Pin To Net: NetName=+5V Pin=R29-2
+Added Room: Name=Connector
+Added Room: Name=Driver
+Added Room: Name=Encoder
+Added Room: Name=IMU
