@@ -159,6 +159,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOINOMCI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Central_Yaw v1.1 PCB_Project\Design Rule Check - YAW.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
