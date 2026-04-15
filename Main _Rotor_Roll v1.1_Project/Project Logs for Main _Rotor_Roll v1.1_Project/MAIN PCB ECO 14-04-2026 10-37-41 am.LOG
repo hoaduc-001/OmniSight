@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetP1_11 Pin=P1-11
+Added Pin To Net: NetName=NetP1_11 Pin=U1-C10
+Added Net: Name=NetP1_11
+Added Pin To Net: NetName=NetP2_20 Pin=P2-20
+Added Pin To Net: NetName=NetP2_20 Pin=U1-C9
+Added Net: Name=NetP2_20
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RS232

@@ -163,6 +163,10 @@ DocumentUniqueId=RKCPTADK
 DocumentPath=Project Outputs for Main _Rotor_Roll v1.1_Project\BGA Escape Route - MAIN.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Main _Rotor_Roll v1.1_Project\Design Rule Check - MAIN.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

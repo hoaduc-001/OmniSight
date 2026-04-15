@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=U6 Old Footprint=MMC5983MA New Footprint=VQFN_2EIRGTR_TEX
+Added Component: Designator=U5(VQFN_2EIRGTR_TEX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC42_2 Pin=U5-1
+Added Pin To Net: NetName=NetC43_1 Pin=U5-2
+Added Pin To Net: NetName=NetC43_2 Pin=U5-3
+Added Pin To Net: NetName=NetC44_1 Pin=U5-4
+Added Pin To Net: NetName=RS232_ENC_Right_TX Pin=U5-5
+Added Pin To Net: NetName=RS232_ENC_Right_RX Pin=U5-6
+Added Pin To Net: NetName=NetR22_2 Pin=U5-7
+Added Pin To Net: NetName=NetR21_2 Pin=U5-8
+Added Pin To Net: NetName=NetR19_2 Pin=U5-9
+Added Pin To Net: NetName=NetR20_2 Pin=U5-10
+Added Pin To Net: NetName=RS232_ENC_Left_RX Pin=U5-11
+Added Pin To Net: NetName=RS232_ENC_Left_TX Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=VDD Pin=U5-14
+Added Pin To Net: NetName=NetC40_1 Pin=U5-15
+Added Pin To Net: NetName=NetC42_1 Pin=U5-16
+Added Pin To Net: NetName=GND Pin=U5-17
+Added Pin To Net: NetName=GND Pin=U6-17
+Added Member To Class: ClassName=RS232 Member=Component U5 TRSF3232EIRGTR
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RS232
