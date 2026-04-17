@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\AD22\OmniSight\Central Roll v1.1_Project\ROLL.PcbDoc
+Date     : 4/17/2026
+Time     : 10:40:29 PM
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Arc (1092.346mil,954.248mil) on Multi-Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1092.352mil,954.237mil) on Multi-Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1280.967mil,847.87mil) on Multi-Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1280.986mil,1060.446mil) on Multi-Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1378mil,1761mil) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1378mil,1761mil) on Layer 2 Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1378mil,1762mil) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1379.228mil,146.227mil) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1379mil,145mil) on Layer 1 Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1379mil,145mil) on Layer 2 Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1379mil,146mil) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1379mil,1763mil) on Layer 1 Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1415.305mil,808.509mil) on Multi-Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (1415.345mil,1099.878mil) on Multi-Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (166mil,674mil) on Layer 2 Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (167mil,675mil) on Bottom Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (167mil,675mil) on Layer 1 Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Arc (168mil,675mil) on Top Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (1280.959mil,890.276mil)(1415.329mil,890.276mil) on Multi-Layer Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (1281.037mil,1018.111mil)(1415.368mil,1018.111mil) on Multi-Layer Dead Copper - Net Not Assigned.
+Rule Violations :20
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=100mil) (Preferred=4mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 20
+Waived Violations : 0
+PCB Health Issues : 0
+Time Elapsed        : 00:00:02
