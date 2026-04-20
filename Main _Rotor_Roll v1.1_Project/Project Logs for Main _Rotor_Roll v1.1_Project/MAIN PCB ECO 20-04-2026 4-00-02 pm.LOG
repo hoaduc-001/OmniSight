@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=IMU1_INT2_FSYNC Pin=R20-1
+Removed Pin From Net: NetName=IMU1_INT1 Pin=R21-2
+Removed Member From Class: ClassName=IMU Member=R20
+Removed Member From Class: ClassName=IMU Member=R21
+Added Component: Designator=R30(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IMU1_INT2_FSYNC Pin=R30-1
+Added Pin To Net: NetName=IMU1_INT1 Pin=R31-2
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=U4-9
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR31_1 Pin=R31-1
+Added Pin To Net: NetName=NetR31_1 Pin=U4-4
+Added Net: Name=NetR31_1
+Added Member To Class: ClassName=IMU Member=Component R30 RES0402
+Added Member To Class: ClassName=IMU Member=Component R31 RES0402
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RS232
