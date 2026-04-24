@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=R10-2
+Change Component Footprint: Designator=R10 Old Footprint=RES0603 New Footprint=RES0402
+Change Component Comment : Designator=R10 Old Comment=RES0603 New Comment=RES0402 0R
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES0603"; UniqueID = "\WOFNWANZ" ("\WOFNWANZ")
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U1-D9
+Added Net: Name=NetR10_2
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=RS232

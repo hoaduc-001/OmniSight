@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=C7 Old Footprint=CAP0603 New Footprint=CAP0402
+Change Component Footprint: Designator=C8 Old Footprint=CAP0603 New Footprint=CAP0402
+Change Component Footprint: Designator=C9 Old Footprint=CAP0603 New Footprint=CAP0402
+Change Component Footprint: Designator=C10 Old Footprint=CAP0603 New Footprint=CAP0402
+Change Component Footprint: Designator=C11 Old Footprint=CAP0603 New Footprint=CAP0402
+Change Component Footprint: Designator=C14 Old Footprint=CAP0603 New Footprint=CAP0402
+Change Component Footprint: Designator=C15 Old Footprint=CAP0603 New Footprint=CAP0402
+Change Component Comment : Designator=C9 Old Comment=CAP0603 0.1uF 50V New Comment=CAP0402
+Change Component Comment : Designator=C10 Old Comment=CAP0603 0.1uF 50V New Comment=CAP0402
+Change Component Comment : Designator=C15 Old Comment=CAP0603 0.1uF 50V New Comment=CAP0402
+Change Component Comment : Designator=C8 Old Comment=CAP0603 1uF 50V New Comment=CAP0402
+Change Component Comment : Designator=C11 Old Comment=CAP0603 1uF 50V New Comment=CAP0402
+Change Component Comment : Designator=C14 Old Comment=CAP0603 1uF 50V New Comment=CAP0402
+Change Component Comment : Designator=C7 Old Comment=CAP0603 4.7uF 10V New Comment=CAP0402
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP0603"; UniqueID = "\AIPKGKRL" ("\AIPKGKRL")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP0603"; UniqueID = "\XYSXTPNI" ("\XYSXTPNI")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP0603"; UniqueID = "\XDIKENJD" ("\XDIKENJD")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAP0603"; UniqueID = "\GYBXDBRE" ("\GYBXDBRE")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP0603"; UniqueID = "\CLPLCOTC" ("\CLPLCOTC")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP0603"; UniqueID = "\IEUJRGMD" ("\IEUJRGMD")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAP0603"; UniqueID = "\ZAYTWTWG" ("\ZAYTWTWG")
+Change component parameters (AddParameter): Name = "MP"; Value = "add later"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change Room Name: Old Name=Room_BGA New Name=PWR
+Change Room Scope: Old Scope=False New Scope=InComponentClass('PWR')
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=RS232
