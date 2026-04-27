@@ -1,0 +1,72 @@
+Removed Member From Class: ClassName=IMU Member=C1
+Removed Member From Class: ClassName=PWR Member=C1
+Removed Member From Class: ClassName=PWR Member=C4
+Removed Member From Class: ClassName=PWR Member=C6
+Removed Member From Class: ClassName=PWR Member=C7
+Removed Member From Class: ClassName=PWR Member=C8
+Removed Member From Class: ClassName=Driver Member=C11
+Removed Member From Class: ClassName=Driver Member=C12
+Removed Member From Class: ClassName=Encoder Member=C12
+Removed Member From Class: ClassName=Driver Member=G
+Removed Member From Class: ClassName=IMU Member=Q2
+Removed Member From Class: ClassName=Encoder Member=Q3
+Removed Member From Class: ClassName=IMU Member=R1
+Removed Member From Class: ClassName=IMU Member=R10
+Removed Member From Class: ClassName=IMU Member=R12
+Removed Member From Class: ClassName=PWR Member=R12
+Removed Member From Class: ClassName=Encoder Member=R16
+Removed Member From Class: ClassName=IMU Member=R16
+Removed Member From Class: ClassName=Driver Member=R25
+Removed Member From Class: ClassName=Encoder Member=R25
+Removed Member From Class: ClassName=Driver Member=R27
+Removed Member From Class: ClassName=PWR Member=R27
+Removed Member From Class: ClassName=Encoder Member=R29
+Removed Member From Class: ClassName=PWR Member=U2
+Change Component Designator: OldDesignator=12V NewDesignator=J2
+Change Component Designator: OldDesignator=G NewDesignator=J1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Pin To Net: NetName=NetR11_1 Pin=P1-20
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetP1_20
+Added Member To Class: ClassName=Encoder Member=Component C3 CL21A476MQYNNNE
+Added Member To Class: ClassName=Driver Member=Component C5 C0603C103M5RACTU
+Added Member To Class: ClassName=Driver Member=Component C10 C0603C104M5RACTU
+Added Member To Class: ClassName=PWR Member=Component C12 GRM188R6YA106MA73D
+Added Member To Class: ClassName=PWR Member=Component C13 CC0402KRX5R9BB104
+Added Member To Class: ClassName=PWR Member=Component C14 GRM158R61A226ME15D
+Added Member To Class: ClassName=PWR Member=Component C15 GRM158R61A226ME15D
+Added Member To Class: ClassName=PWR Member=Component C16 75pF
+Added Member To Class: ClassName=PWR Member=Component C17 GRM188R6YA106MA73D
+Added Member To Class: ClassName=PWR Member=Component C18 CC0402KRX5R9BB104
+Added Member To Class: ClassName=PWR Member=Component C21 CL21A107MQYNNWE
+Added Member To Class: ClassName=IMU Member=Component C23 CL21A476MQYNNNE
+Added Member To Class: ClassName=Driver Member=Component J1 BM03B-ACHSS-GAN-TF
+Added Member To Class: ClassName=PWR Member=Component J2 CON1
+Added Member To Class: ClassName=Encoder Member=Component Q1 BSS138
+Added Member To Class: ClassName=IMU Member=Component Q3 BSS138
+Added Member To Class: ClassName=Encoder Member=Component R2 RES0603
+Added Member To Class: ClassName=Encoder Member=Component R3 RES0603
+Added Member To Class: ClassName=Encoder Member=Component R4 RES0603
+Added Member To Class: ClassName=Encoder Member=Component R5 2.2k
+Added Member To Class: ClassName=Encoder Member=Component R6 RES0603
+Added Member To Class: ClassName=Encoder Member=Component R7 2.2k
+Added Member To Class: ClassName=Encoder Member=Component R9 RES0603
+Added Member To Class: ClassName=Driver Member=Component R11 RC0603JR-074K7L
+Added Member To Class: ClassName=Driver Member=Component R12 RC0603JR-074K7L
+Added Member To Class: ClassName=PWR Member=Component R15 105K
+Added Member To Class: ClassName=PWR Member=Component R16 100K
+Added Member To Class: ClassName=PWR Member=Component R17 13.3K
+Added Member To Class: ClassName=PWR Member=Component R19 CRCW040210K0JNED
+Added Member To Class: ClassName=IMU Member=Component R20 RC0603FR-072K2L
+Added Member To Class: ClassName=IMU Member=Component R21 RC0603FR-072K2L
+Added Member To Class: ClassName=IMU Member=Component R22 RC0603FR-071KL
+Added Member To Class: ClassName=IMU Member=Component R23 RC0603JR-074K7L
+Added Member To Class: ClassName=IMU Member=Component R24 2.2k
+Added Member To Class: ClassName=IMU Member=Component R26 2.2k
+Added Member To Class: ClassName=IMU Member=Component R28 MCR03EZPJ100
+Added Member To Class: ClassName=PWR Member=Component U3 TPS54302DDCR
+Added Member To Class: ClassName=PWR Member=Component U4 TLV76733DRVR
+Added Room: Name=Connector
+Added Room: Name=Driver
+Added Room: Name=Encoder
+Added Room: Name=IMU
+Added Room: Name=PWR
