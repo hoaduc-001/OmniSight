@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\AD22\OmniSight\Central_Yaw v1.1 PCB_Project\YAW.PcbDoc
-Date     : 4/17/2026
-Time     : 10:32:14 PM
+Date     : 4/28/2026
+Time     : 11:34:09 PM
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
@@ -9,20 +9,8 @@ Rule Violations :0
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
-Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Arc (2239mil,830mil) on Layer 1 Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (2239mil,830mil) on Layer 2 Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (2240mil,829mil) on Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (2240mil,830mil) on Top Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (700.9mil,182.196mil) on Top Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (700mil,1795mil) on Top Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (700mil,1796mil) on Layer 2 Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (701mil,1796mil) on Layer 1 Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (701mil,1797mil) on Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (701mil,181mil) on Layer 1 Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (701mil,182mil) on Bottom Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Arc (701mil,182mil) on Layer 2 Dead Copper - Net Not Assigned.
-Rule Violations :12
+Processing Rule : Un-Routed Net Constraint ( (InNet('No Net')) )
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -55,7 +43,7 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 12
+Violations Detected : 0
 Waived Violations : 0
 PCB Health Issues : 0
 Time Elapsed        : 00:00:02

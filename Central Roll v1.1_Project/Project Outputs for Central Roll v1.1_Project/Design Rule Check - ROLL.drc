@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : G:\AD document\Gimbal  OmniSight EVT\OmniSight\Central Roll v1.1_Project\ROLL.PcbDoc
-Date     : 28/04/2026
-Time     : 5:04:47 pm
+PCB File : C:\Users\Public\Documents\Altium\AD22\OmniSight\Central Roll v1.1_Project\ROLL.PcbDoc
+Date     : 4/28/2026
+Time     : 10:51:17 PM
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
@@ -9,7 +9,7 @@ Rule Violations :0
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
-Processing Rule : Un-Routed Net Constraint ( (All) )
+Processing Rule : Un-Routed Net Constraint ( (InNet('No Net')) )
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
@@ -45,4 +45,5 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+PCB Health Issues : 0
+Time Elapsed        : 00:00:01
