@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Public\Documents\Altium\AD22\OmniSight\Main _Rotor_Roll v1.1_Project\MAIN.PcbDoc
-Date     : 4/28/2026
-Time     : 11:47:30 PM
+PCB File : G:\AD document\Gimbal  OmniSight EVT\OmniSight\Main _Rotor_Roll v1.1_Project\MAIN.PcbDoc
+Date     : 29/04/2026
+Time     : 3:13:43 pm
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -45,7 +45,7 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Room_BGA (Bounding Region = (1132mil, 1321mil, 1437mil, 1626mil) (InComponent('No Component'))
+Processing Rule : Room_BGA (Bounding Region = (1130mil, 1316.242mil, 1440mil, 1630mil) (InComponent('No Component'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
@@ -54,5 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-PCB Health Issues : 0
-Time Elapsed        : 00:00:30
+Time Elapsed        : 00:00:20

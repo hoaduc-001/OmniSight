@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Added Pin To Net: NetName=NetU1_C4 Pin=U1-C4
+Added Net: Name=NetU1_C4
+Added Pin To Net: NetName=NetU1_D4 Pin=U1-D4
+Added Net: Name=NetU1_D4
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=PWR
+Added Room: Name=RS232
