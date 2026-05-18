@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetP1_50 Pin=P2-18
+Added Pin To Net: NetName=NetP1_52 Pin=P3-18
+Added Room: Name=Connector
+Added Room: Name=Driver
+Added Room: Name=Encoder
+Added Room: Name=IMU
+Added Room: Name=PWR

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=J4-4
+Removed Pin From Net: NetName=GND Pin=J4-5
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=CAM_TRIGGER Pin=P1-23
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=CAM_TRIGGER Pin=R32-2
+Removed Member From Class: ClassName=Connector Member=R32
+Removed Member From Class: ClassName=Connector Member=R37
+Change Component Designator: OldDesignator=12V NewDesignator=J1
+Change Component Designator: OldDesignator=GND NewDesignator=J2
+Added Room: Name=Connector
+Added Room: Name=Driver
+Added Room: Name=Encoder
+Added Room: Name=IMU
+Added Room: Name=PWR

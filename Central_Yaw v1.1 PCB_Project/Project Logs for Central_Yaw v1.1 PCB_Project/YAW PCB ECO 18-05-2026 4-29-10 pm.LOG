@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=PWR Member=Component J1 CON1
+Added Room: Name=Connector
+Added Room: Name=Driver
+Added Room: Name=Encoder
+Added Room: Name=IMU
+Added Room: Name=PWR

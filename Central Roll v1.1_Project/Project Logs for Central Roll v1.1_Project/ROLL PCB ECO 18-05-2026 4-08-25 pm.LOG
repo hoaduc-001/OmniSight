@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Member From Class: ClassName=Driver Member=GND
+Change Component Designator: OldDesignator=12V NewDesignator=J1
+Change Component Designator: OldDesignator=GND NewDesignator=J2
+Added Pin To Net: NetName=CAM_TRIGGER1 Pin=P2-18
+Added Net: Name=CAM_TRIGGER1
+Added Pin To Net: NetName=CAM_TRIGGER_2 Pin=P3-18
+Added Net: Name=CAM_TRIGGER_2
+Added Pin To Net: NetName=NetP1_50 Pin=P1-50
+Added Net: Name=NetP1_50
+Added Pin To Net: NetName=NetP1_52 Pin=P1-52
+Added Net: Name=NetP1_52
+Added Member To Class: ClassName=Driver Member=Component J1 BM03B-ACHSS-GAN-TF
+Added Member To Class: ClassName=PWR Member=Component J1 CON1
+Added Room: Name=Connector
+Added Room: Name=Driver
+Added Room: Name=Encoder
+Added Room: Name=IMU
+Added Room: Name=PWR

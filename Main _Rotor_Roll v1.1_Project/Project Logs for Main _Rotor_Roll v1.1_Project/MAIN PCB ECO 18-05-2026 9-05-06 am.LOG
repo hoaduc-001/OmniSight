@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Member From Class: ClassName=MCU Member=R27
+Added Pin To Net: NetName=GND Pin=U1-B3
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=RS232
