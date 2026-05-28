@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : G:\AD document\Gimbal  OmniSight EVT\OmniSight\Main _Rotor_Roll v1.1_Project\MAIN.PcbDoc
-Date     : 20/05/2026
-Time     : 10:17:03 am
+Date     : 28/05/2026
+Time     : 10:55:59 am
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -54,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:21
+Time Elapsed        : 00:00:22
