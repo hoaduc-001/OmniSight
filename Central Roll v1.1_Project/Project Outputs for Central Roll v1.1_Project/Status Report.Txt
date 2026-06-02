@@ -1,0 +1,43 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Central Roll v1.1_Project.PrjPcb]
+   Generated File[ROLL.GTO]
+   Generated File[ROLL.GTP]
+   Generated File[ROLL.GTS]
+   Generated File[ROLL.GTL]
+   Generated File[ROLL.G1]
+   Generated File[ROLL.G2]
+   Generated File[ROLL.G3]
+   Generated File[ROLL.G4]
+   Generated File[ROLL.GBL]
+   Generated File[ROLL.GBS]
+   Generated File[ROLL.GBP]
+   Generated File[ROLL.GBO]
+   Generated File[ROLL.GM1]
+   Generated File[ROLL.GM3]
+   Generated File[ROLL.GM9]
+   Generated File[ROLL.GM10]
+   Generated File[ROLL.GM11]
+   Generated File[ROLL.GM12]
+   Generated File[ROLL.GM13]
+   Generated File[ROLL.GM14]
+   Generated File[ROLL.GM15]
+   Generated File[ROLL.GM20]
+   Generated File[ROLL.GKO]
+   Generated File[ROLL.GPT]
+   Generated File[ROLL.GPB]
+   Generated File[ROLL.GML]
+   Generated File[ROLL.1]
+   Generated File[ROLL.2]
+   Generated File[ROLL.3]
+   Generated File[ROLL.4]
+   Generated File[ROLL.5]
+   Generated File[ROLL.RUL]
+   Generated File[ROLL.EXTREP]
+   Generated File[ROLL.REP]
+
+
+Files Generated   : 34
+Documents Printed : 0
+
+Finished Output Generation At 2:37:12 pm On 02/06/2026

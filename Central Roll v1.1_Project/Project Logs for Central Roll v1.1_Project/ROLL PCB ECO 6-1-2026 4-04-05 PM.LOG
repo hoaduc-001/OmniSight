@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Added Member To Class: ClassName=Driver Member=Component J3 BM03B-ACHSS-GAN-TF
+Added Member To Class: ClassName=Driver Member=Component U2 DRV8313PWP

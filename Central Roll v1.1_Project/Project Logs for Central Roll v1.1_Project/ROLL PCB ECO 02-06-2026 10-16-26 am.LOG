@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=U4-7
+Removed Member From Class: ClassName=Driver Member=12V
+Removed Member From Class: ClassName=Driver Member=U1
+Change Component Footprint: Designator=C11 Old Footprint=RES0402 New Footprint=CAP0402
+Change Component Comment : Designator=C11 Old Comment=RES0402 New Comment=CC0402KRX5R9BB104
+Change Component Designator: OldDesignator=12V NewDesignator=J1
+Change Component Designator: OldDesignator=GND NewDesignator=J2
+Change component parameters: Designator = "C11" ("C11"); Footprint = "RES0402"; UniqueID = "\FMSTTWSM" ("\FMSTTWSM")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Halogen Free"; Value = "Halogen Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.039inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0402KRX5R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC0402KRX5R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetJ3_3
+Added Room: Name=Connector
+Added Room: Name=Driver
+Added Room: Name=Encoder
+Added Room: Name=IMU
+Added Room: Name=PWR

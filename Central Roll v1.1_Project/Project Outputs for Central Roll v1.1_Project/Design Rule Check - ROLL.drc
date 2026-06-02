@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : G:\AD document\Gimbal  OmniSight EVT\OmniSight\Central Roll v1.1_Project\ROLL.PcbDoc
-Date     : 28/05/2026
-Time     : 10:54:19 am
+Date     : 02/06/2026
+Time     : 2:36:04 pm
 
 Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
@@ -28,12 +28,6 @@ Processing Rule : Hole To Hole Clearance (Gap=4mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
-Rule Violations :0
-
-Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
