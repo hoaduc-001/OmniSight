@@ -1,0 +1,43 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Main _Rotor_Roll v1.1_Project.PrjPcb]
+   Generated File[MAIN.GTO]
+   Generated File[MAIN.GTP]
+   Generated File[MAIN.GTS]
+   Generated File[MAIN.GTL]
+   Generated File[MAIN.G1]
+   Generated File[MAIN.G2]
+   Generated File[MAIN.G3]
+   Generated File[MAIN.G4]
+   Generated File[MAIN.GBL]
+   Generated File[MAIN.GBS]
+   Generated File[MAIN.GBP]
+   Generated File[MAIN.GBO]
+   Generated File[MAIN.GM1]
+   Generated File[MAIN.GM3]
+   Generated File[MAIN.GM9]
+   Generated File[MAIN.GM10]
+   Generated File[MAIN.GM11]
+   Generated File[MAIN.GM12]
+   Generated File[MAIN.GM13]
+   Generated File[MAIN.GM14]
+   Generated File[MAIN.GM15]
+   Generated File[MAIN.GM20]
+   Generated File[MAIN.GKO]
+   Generated File[MAIN.GPT]
+   Generated File[MAIN.GPB]
+   Generated File[MAIN.GML]
+   Generated File[MAIN.1]
+   Generated File[MAIN.2]
+   Generated File[MAIN.3]
+   Generated File[MAIN.4]
+   Generated File[MAIN.5]
+   Generated File[MAIN.RUL]
+   Generated File[MAIN.EXTREP]
+   Generated File[MAIN.REP]
+
+
+Files Generated   : 34
+Documents Printed : 0
+
+Finished Output Generation At 4:30:21 pm On 04/06/2026

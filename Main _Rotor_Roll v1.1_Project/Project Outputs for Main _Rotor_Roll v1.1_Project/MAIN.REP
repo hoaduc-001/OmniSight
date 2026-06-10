@@ -1,0 +1,533 @@
+*************************************************************
+FileName = MAIN.GBR
+AutoAperture = True
+*************************************************************
+Generating : Dielectric 4
+      File : MAIN.5
+
+    Adding Layer      : Dielectric 4
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : MAIN.4
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 5
+      File : MAIN.3
+
+    Adding Layer      : Dielectric 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : MAIN.2
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 3
+      File : MAIN.1
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : MAIN.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : MAIN.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : MAIN.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D65
+    D66
+    D67
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : MAIN.GM14
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D15
+    D65
+    D66
+    D68
+    D69
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : MAIN.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D11
+    D15
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : MAIN.GM12
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : MAIN.GM11
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : MAIN.GM10
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : MAIN.GM9
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : MAIN.GM3
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+    D14
+    D15
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : MAIN.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : MAIN.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MAIN.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : MAIN.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D20
+    D21
+    D22
+    D23
+    D29
+    D30
+    D35
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MAIN.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D38
+    D40
+    D41
+    D42
+    D49
+    D50
+    D55
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : MAIN.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MAIN.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : MAIN.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : MAIN.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D21
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : MAIN.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D20
+    D21
+    D22
+    D23
+    D29
+    D30
+    D35
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MAIN.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D18
+    D20
+    D21
+    D22
+    D23
+    D29
+    D30
+    D35
+    D58
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Layer 4
+      File : MAIN.G4
+
+    Adding Layer      : Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D58
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : MAIN.G3
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D58
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : MAIN.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D58
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : MAIN.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : MAIN.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D58
+    D61
+    D62
+*************************************************************
+

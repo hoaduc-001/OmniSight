@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: G:\AD document\Gimbal  OmniSight EVT\OmniSight\Main _Rotor_Roll v1.1_Project\MAIN.PcbDoc
+RuleKind=Width|RuleName=Width_BGA|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=5.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_BGA|Scope=Board|Minimum=3.50
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

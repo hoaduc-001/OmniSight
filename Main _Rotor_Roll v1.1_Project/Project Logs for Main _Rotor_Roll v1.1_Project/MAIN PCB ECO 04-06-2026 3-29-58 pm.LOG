@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=RX_AI Pin=U1-B8
+Removed Pin From Net: NetName=TX_AI Pin=U1-C8
+Added Pin To Net: NetName=RX_AI Pin=U1-D12
+Added Pin To Net: NetName=TX_AI Pin=U1-D13
+Change Room Name: Old Name=Room_BGA New Name=PWR
+Change Room Scope: Old Scope=InComponent('No Component') New Scope=InComponentClass('PWR')
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=RS232
