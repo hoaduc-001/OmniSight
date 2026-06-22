@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [YAW.PcbDoc]
+   Generated File[Pick Place for YAW.txt]
+   Generated File[Pick Place for YAW.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 1:21:55 PM On 6/22/2026

@@ -1,0 +1,589 @@
+*************************************************************
+FileName = YAW.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Pad Master
+      File : YAW.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D79
+    D83
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : YAW.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : YAW.GM12
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : YAW.GM11
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : YAW.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : YAW.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : YAW.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Layer 4
+      File : YAW.G4
+
+    Adding Layer      : Layer 4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D80
+    D84
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : YAW.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D17
+    D31
+    D32
+    D33
+    D45
+    D80
+    D81
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : YAW.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : YAW.GM3
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+    D12
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : YAW.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D100
+    D102
+    D103
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : YAW.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D84
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : YAW.GM4
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : YAW.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D31
+    D32
+    D33
+    D45
+    D87
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : YAW.GM9
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : YAW.GM10
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : YAW.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : YAW.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D80
+    D84
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : YAW.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : YAW.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D31
+    D32
+    D33
+    D45
+    D83
+    D84
+    D85
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : YAW.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D61
+    D62
+    D63
+    D75
+    D76
+    D77
+    D78
+    D90
+    D91
+    D96
+    D97
+    D98
+    D99
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : YAW.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : YAW.G3
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D84
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : YAW.GM14
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D12
+    D81
+    D101
+    D102
+    D103
+    D105
+    D106
+    D107
+    D110
+    D113
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : YAW.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D16
+    D101
+    D102
+    D103
+    D110
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : YAW.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D110
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : YAW.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D110
+*************************************************************
+
