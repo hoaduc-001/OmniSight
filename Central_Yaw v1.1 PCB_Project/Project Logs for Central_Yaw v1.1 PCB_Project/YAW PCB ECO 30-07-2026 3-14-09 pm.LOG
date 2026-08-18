@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J6-13
+Removed Pin From Net: NetName=GND Pin=J6-14
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=P2-0
+Removed Pin From Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=+5V Pin=J6-2
+Added Member To Class: ClassName=PWR Member=Component J1 CON1
+Added Member To Class: ClassName=PWR Member=Component J2 CON1
+Added Room: Name=Connector
+Added Room: Name=Driver
+Added Room: Name=Encoder
+Added Room: Name=IMU
+Added Room: Name=PWR
