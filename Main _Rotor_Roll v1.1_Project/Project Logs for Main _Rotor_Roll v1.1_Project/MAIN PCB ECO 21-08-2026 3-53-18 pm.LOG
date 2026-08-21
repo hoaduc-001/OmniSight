@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=VDD Pin=C7-2
+Removed Pin From Net: NetName=VDD Pin=U1-A3
+Removed Pin From Net: NetName=VDD Pin=U1-B13
+Removed Pin From Net: NetName=VDD Pin=U1-N10
+Removed Pin From Net: NetName=RS232_ENC_Right_TX Pin=U5-5
+Removed Pin From Net: NetName=RS232_ENC_Right_RX Pin=U5-6
+Removed Pin From Net: NetName=RS232_ENC_Left_RX Pin=U5-11
+Removed Pin From Net: NetName=RS232_ENC_Left_TX Pin=U5-12
+Added Component: Designator=C38(CAP0402)
+Add component (AddParameter): Name = "MP"; Value = "GRT155R61A106ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAP0402)
+Add component (AddParameter): Name = "MP"; Value = "GRM158R61A226ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAP0402)
+Add component (AddParameter): Name = "MP"; Value = "GRM158R61A226ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=L2(IND_NR3015T2R2M)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NR3015T2R2M/Taiyo+Yuden/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NR3015T2R2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/NR3015T2R2M/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NR3015T2R2M/Taiyo+Yuden/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "RC0402FR-0713K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K3"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOP65P490X110-8N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TPS62160DGKT/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS62160DGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSSOP-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS62160DGKT/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=+5V_SYS Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=RS232_ENC_Right_RX Pin=U5-5
+Added Pin To Net: NetName=RS232_ENC_Right_TX Pin=U5-6
+Added Pin To Net: NetName=RS232_ENC_Left_TX Pin=U5-11
+Added Pin To Net: NetName=RS232_ENC_Left_RX Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=+5V_SYS Pin=U7-2
+Added Pin To Net: NetName=+5V_SYS Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=1V8 Pin=C7-2
+Added Pin To Net: NetName=1V8 Pin=C39-2
+Added Pin To Net: NetName=1V8 Pin=C40-2
+Added Pin To Net: NetName=1V8 Pin=L2-2
+Added Pin To Net: NetName=1V8 Pin=R37-2
+Added Pin To Net: NetName=1V8 Pin=R38-2
+Added Pin To Net: NetName=1V8 Pin=U1-A3
+Added Pin To Net: NetName=1V8 Pin=U1-B13
+Added Pin To Net: NetName=1V8 Pin=U1-N10
+Added Pin To Net: NetName=1V8 Pin=U7-6
+Added Net: Name=1V8
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U7-7
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=U7-8
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=R39-2
+Added Pin To Net: NetName=NetR38_1 Pin=U7-5
+Added Net: Name=NetR38_1
+Added Member To Class: ClassName=PWR Member=Component C38 CAP0402 10uF 10V
+Added Member To Class: ClassName=PWR Member=Component C39 CAP0402 22uF 10V
+Added Member To Class: ClassName=PWR Member=Component C40 CAP0402 22uF 10V
+Added Member To Class: ClassName=PWR Member=Component L2 NR3015T2R2M
+Added Member To Class: ClassName=PWR Member=Component R37 RES0402 100K
+Added Member To Class: ClassName=PWR Member=Component R38 RES0402 13K3
+Added Member To Class: ClassName=PWR Member=Component R39 RES0402 10K
+Added Member To Class: ClassName=PWR Member=Component U7 TPS62160DGKT
+Change Room Name: Old Name=Room_BGA New Name=PWR
+Change Room Scope: Old Scope=InComponent('No Component') New Scope=InComponentClass('PWR')
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=RS232
