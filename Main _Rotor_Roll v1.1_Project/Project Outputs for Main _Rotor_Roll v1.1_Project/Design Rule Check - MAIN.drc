@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : G:\AD document\Gimbal  OmniSight EVT\OmniSight\Main _Rotor_Roll v1.1_Project\MAIN.PcbDoc
-Date     : 18/08/2026
-Time     : 10:42:28 am
+PCB File : C:\Users\Public\Documents\Altium\AD22\OmniSight\Main _Rotor_Roll v1.1_Project\MAIN.PcbDoc
+Date     : 8/23/2026
+Time     : 2:22:41 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -24,7 +24,7 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=4mil) (Max=20mil) (Preferred=8mil) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=3.5mil) (Max=6mil) (Preferred=4mil) (WithinRoom('Room_BGA'))
+Processing Rule : Width Constraint (Min=3.5mil) (Max=8mil) (Preferred=4mil) (WithinRoom('Room_BGA'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -57,4 +57,5 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:21
+PCB Health Issues : 0
+Time Elapsed        : 00:00:33

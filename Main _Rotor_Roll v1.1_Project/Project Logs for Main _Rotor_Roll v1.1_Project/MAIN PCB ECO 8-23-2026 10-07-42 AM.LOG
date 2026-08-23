@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VDD Pin=C23-2
+Added Pin To Net: NetName=1V8 Pin=C23-2
+Change Room Name: Old Name=Room_BGA New Name=PWR
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=RS232
