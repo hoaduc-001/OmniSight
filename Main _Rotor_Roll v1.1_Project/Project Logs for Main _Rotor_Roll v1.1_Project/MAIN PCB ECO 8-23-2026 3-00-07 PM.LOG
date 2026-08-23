@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RS232_ENC_Right_TX Pin=U5-5
+Removed Pin From Net: NetName=RS232_ENC_Right_RX Pin=U5-6
+Removed Pin From Net: NetName=RS232_ENC_Left_RX Pin=U5-11
+Removed Pin From Net: NetName=RS232_ENC_Left_TX Pin=U5-12
+Added Pin To Net: NetName=RS232_ENC_Right_RX Pin=U5-5
+Added Pin To Net: NetName=RS232_ENC_Right_TX Pin=U5-6
+Added Pin To Net: NetName=RS232_ENC_Left_TX Pin=U5-11
+Added Pin To Net: NetName=RS232_ENC_Left_RX Pin=U5-12
+Change Room Name: Old Name=Room_BGA New Name=PWR
+Change Room Scope: Old Scope=InComponent('No Component') New Scope=InComponentClass('PWR')
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU
+Added Room: Name=RS232
