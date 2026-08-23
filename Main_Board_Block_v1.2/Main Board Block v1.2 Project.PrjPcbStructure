@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Connector.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=IMU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=MCU1.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=MCU2.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=PWR.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connector.SchDoc|FileName=RS232.SchDoc|SheetNumber=4

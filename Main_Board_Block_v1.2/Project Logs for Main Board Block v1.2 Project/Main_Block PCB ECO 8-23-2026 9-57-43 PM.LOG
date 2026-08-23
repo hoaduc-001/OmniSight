@@ -1,0 +1,169 @@
+Removed Pin From Net: NetName=+5V_SYS Pin=5V-TP
+Removed Pin From Net: NetName=12V Pin=12V-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=VDD_MCU1 Pin=C21-1
+Removed Pin From Net: NetName=VDD_MCU2 Pin=C48-1
+Remove Pin from Net: Unknown Pin: Pin GND-1
+Remove Pin from Net: Unknown Pin: Pin GND-1
+Removed Pin From Net: NetName=GND Pin=GND-TP
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=GND Pin=P1-0
+Removed Pin From Net: NetName=NX_CAN_L Pin=P1-27
+Removed Pin From Net: NetName=NX_CAN_H Pin=P1-29
+Removed Pin From Net: NetName=USART2_RX Pin=RX-TP
+Removed Pin From Net: NetName=USART2_TX Pin=TX-TP
+Removed Pin From Net: NetName=VDD_MCU1 Pin=U4-A3
+Removed Pin From Net: NetName=VDD_MCU1 Pin=U4-B13
+Removed Pin From Net: NetName=VDD_MCU1 Pin=U4-N10
+Removed Pin From Net: NetName=VDD_MCU2 Pin=U5-A3
+Removed Pin From Net: NetName=VDD_MCU2 Pin=U5-B13
+Removed Pin From Net: NetName=VDD_MCU2 Pin=U5-N10
+Removed Member From Class: ClassName=MCU1 Member=RX
+Removed Member From Class: ClassName=MCU1 Member=TX
+Change Component Comment : Designator=R7 Old Comment=RT0402FRE07510RL New Comment=RES0402 100R
+Change Component Comment : Designator=R8 Old Comment=RT0402FRE07510RL New Comment=RES0402 100R
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES0402"; UniqueID = "\AYLHZIWB" ("\AYLHZIWB")
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RES0402"; UniqueID = "\HCNIMEVS" ("\HCNIMEVS")
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0402FR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "LD39200PUR"; UniqueID = "\KLENCKCV" ("\KLENCKCV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LD39200PU33R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DFN-6 STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LD39200PUR/STMicroelectronics/view-part/882017/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "LD39200PUR"; UniqueID = "\REMGMPME" ("\REMGMPME")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LD39200PU33R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DFN-6 STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LD39200PUR/STMicroelectronics/view-part/882017/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C77(CAP0402)
+Add component (AddParameter): Name = "MP"; Value = "GRT155R61A106ME13D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C78(CAP0402)
+Add component (AddParameter): Name = "MP"; Value = "GRM158R61A226ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C79(CAP0402)
+Add component (AddParameter): Name = "MP"; Value = "GRM158R61A226ME15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found wire1_220s
+Add Component: Footprint Not Found wire1_220s
+Add Component: Footprint Not Found IND_NR3015T2R2M
+Added Component: Designator=R25(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R49(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "RC0402FR-0713K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K3"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RES0402)
+Add component (AddParameter): Name = "MP"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Test Point)
+Added Component: Designator=TP2(Test Point)
+Add Component: Footprint Not Found SOP65P490X110-8N
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=+5V_SYS Pin=C77-2
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=GND Pin=C79-1
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Added Pin To Net: NetName=NX_CAN_L Pin=R25-2
+Added Pin To Net: NetName=NX_CAN_H Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=USART2_TX Pin=R52-2
+Added Pin To Net: NetName=USART2_RX Pin=R53-2
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Added Pin To Net: NetName=1V8 Pin=C21-1
+Added Pin To Net: NetName=1V8 Pin=C48-1
+Added Pin To Net: NetName=1V8 Pin=C78-2
+Added Pin To Net: NetName=1V8 Pin=C79-2
+Added Pin To Net: NetName=1V8 Pin=R49-2
+Added Pin To Net: NetName=1V8 Pin=R50-2
+Added Pin To Net: NetName=1V8 Pin=U4-A3
+Added Pin To Net: NetName=1V8 Pin=U4-B13
+Added Pin To Net: NetName=1V8 Pin=U4-N10
+Added Pin To Net: NetName=1V8 Pin=U5-A3
+Added Pin To Net: NetName=1V8 Pin=U5-B13
+Added Pin To Net: NetName=1V8 Pin=U5-N10
+Added Net: Name=1V8
+Added Pin To Net: NetName=AUX1 Pin=P1-27
+Added Pin To Net: NetName=AUX1 Pin=R25-1
+Added Pin To Net: NetName=AUX1 Pin=R52-1
+Added Pin To Net: NetName=AUX1 Pin=TP1-TP
+Added Net: Name=AUX1
+Added Pin To Net: NetName=AUX2 Pin=P1-29
+Added Pin To Net: NetName=AUX2 Pin=R26-1
+Added Pin To Net: NetName=AUX2 Pin=R53-1
+Added Pin To Net: NetName=AUX2 Pin=TP2-TP
+Added Net: Name=AUX2
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetR49_1 Pin=R49-1
+Added Net: Name=NetR49_1
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=R51-2
+Added Net: Name=NetR50_1
+Added Member To Class: ClassName=PWR Member=Component C77 CAP0402 10uF 10V
+Added Member To Class: ClassName=PWR Member=Component C78 CAP0402 22uF 10V
+Added Member To Class: ClassName=PWR Member=Component C79 CAP0402 22uF 10V
+Add Class Member: Failed to add class member : Component J1 CON1
+Add Class Member: Failed to add class member : Component J2 CON1
+Add Class Member: Failed to add class member : Component L2 NR3015T2R2M
+Added Member To Class: ClassName=Connector Member=Component R25 RES0402 0R
+Added Member To Class: ClassName=Connector Member=Component R26 RES0402 0R
+Added Member To Class: ClassName=PWR Member=Component R49 RES0402 100K
+Added Member To Class: ClassName=PWR Member=Component R50 RES0402 13K3
+Added Member To Class: ClassName=PWR Member=Component R51 RES0402 10K
+Added Member To Class: ClassName=MCU1 Member=Component R52 RES0402 0R
+Added Member To Class: ClassName=MCU1 Member=Component R53 RES0402 0R
+Added Member To Class: ClassName=MCU1 Member=Component TP1 Test Point
+Added Member To Class: ClassName=MCU1 Member=Component TP2 Test Point
+Add Class Member: Failed to add class member : Component U8 TPS62160DGKT
+Change Room Name: Old Name=Room_BGA_MCU2 New Name=MCU2
+Change Room Scope: Old Scope=InComponentClass('Room Definition3') New Scope=InComponentClass('MCU2')
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU1
+Added Room: Name=PWR
+Added Room: Name=RS232

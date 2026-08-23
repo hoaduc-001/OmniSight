@@ -1,0 +1,35 @@
+Add Component: Footprint Not Found wire1_220s
+Add Component: Footprint Not Found wire1_220s
+Added Component: Designator=L2(IND_NR3015T2R2M)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NR3015T2R2M/Taiyo+Yuden/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NR3015T2R2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/NR3015T2R2M/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NR3015T2R2M/Taiyo+Yuden/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U8(SOP65P490X110-8N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TPS62160DGKT/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS62160DGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSSOP-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS62160DGKT/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=1V8 Pin=L2-2
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=+5V_SYS Pin=U8-2
+Added Pin To Net: NetName=+5V_SYS Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=NetR50_1 Pin=U8-5
+Added Pin To Net: NetName=1V8 Pin=U8-6
+Added Pin To Net: NetName=NetL2_1 Pin=U8-7
+Added Pin To Net: NetName=NetR49_1 Pin=U8-8
+Add Class Member: Failed to add class member : Component J1 CON1
+Add Class Member: Failed to add class member : Component J2 CON1
+Added Member To Class: ClassName=PWR Member=Component L2 NR3015T2R2M
+Added Member To Class: ClassName=PWR Member=Component U8 TPS62160DGKT
