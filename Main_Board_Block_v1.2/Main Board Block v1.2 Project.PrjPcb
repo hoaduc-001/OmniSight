@@ -167,6 +167,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOVGRMDM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Main Board Block v1.2 Project\Design Rule Check - Main_Block.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

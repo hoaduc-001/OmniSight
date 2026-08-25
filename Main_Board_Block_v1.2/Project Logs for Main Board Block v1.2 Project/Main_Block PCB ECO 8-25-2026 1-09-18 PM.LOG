@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VDD_MCU1 Pin=C31-1
+Removed Pin From Net: NetName=VDD_MCU1 Pin=C38-1
+Removed Pin From Net: NetName=VDD_MCU2 Pin=C62-1
+Removed Pin From Net: NetName=VDD_MCU2 Pin=C65-1
+Add Component: Footprint Not Found wire1_220s
+Add Component: Footprint Not Found wire1_220s
+Added Pin To Net: NetName=1V8 Pin=C31-1
+Added Pin To Net: NetName=1V8 Pin=C38-1
+Added Pin To Net: NetName=1V8 Pin=C62-1
+Added Pin To Net: NetName=1V8 Pin=C65-1
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Class Member: Failed to add class member : Component J1 CON1
+Add Class Member: Failed to add class member : Component J2 CON1
+Added Member To Class: ClassName=MCU1 Member=Component TP2 Test Point
+Change Room Name: Old Name=Room_BGA_MCU2 New Name=MCU2
+Added Room: Name=Connector
+Added Room: Name=IMU
+Added Room: Name=MCU1
+Added Room: Name=PWR
+Added Room: Name=RS232
