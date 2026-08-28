@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\AD22\OmniSight\Main _Rotor_Roll v1.1_Project\MAIN.PcbDoc
-Date     : 8/26/2026
-Time     : 10:27:07 PM
+Date     : 8/28/2026
+Time     : 11:10:26 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -46,6 +46,9 @@ Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
 Processing Rule : Room_BGA (Bounding Region = (1130mil, 1316.242mil, 1440mil, 1630mil) (InComponent('No Component'))
